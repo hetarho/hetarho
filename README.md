@@ -34,6 +34,12 @@ const developer = {
 - 🤝 **Developer Experience**: 팀원들의 생산성과 행복을 위한 개발 문화 조성
 - 👥 **User Experience**: 현장 리서치를 통한 실사용자 중심의 제품 개선
 - 🏗️ **Architecture**: 지속 가능하고 확장 가능한 코드베이스 설계
+### 🌐 Portfolio
+
+더 자세한 내용이 궁금하시다면 포트폴리오를 확인해보세요!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.haeram.me-BB86FC?style=for-the-badge&logo=react&logoColor=white)](https://portfolio.haeram.me/)
+
 
 ---
 
