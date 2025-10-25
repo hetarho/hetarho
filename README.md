@@ -42,7 +42,7 @@ const developer = {
 실무에서 경험한 아키텍처를 보일러플레이트로 정리해놓은 레포지토리입니다.
 
 ### 📦 Monorepo Boilerplate
-[![Repo](https://img.shields.io/badge/Repository-Coming_Soon-gray?style=flat&logo=github)](https://github.com/hetarho)
+[![Repo](https://img.shields.io/badge/Repository-blue?style=flat&logo=github)](https://github.com/hetarho/monorepo-boilerplate)
 
 **Tech Stack:** `pnpm workspace` · `Turborepo` · `TypeScript` · `gRPC`
 
@@ -130,7 +130,7 @@ const developer = {
 개인적으로 진행 중인 사이드 프로젝트입니다.
 
 ### 🧠 Brain - 엔그램 기반 뇌과학 일기
-[![Repo](https://img.shields.io/badge/Repository-Coming_Soon-gray?style=flat&logo=github)](https://github.com/hetarho)
+[![Repo](https://img.shields.io/badge/Repository-blue?style=flat&logo=github)](https://github.com/hetarho/brain_diary)
 
 **Tech Stack:** `Next.js 15` · `tRPC` · `Prisma` · `PostgreSQL` · `Gemini AI`
 
